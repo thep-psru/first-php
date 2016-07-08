@@ -1,10 +1,12 @@
 # join-group
 
 ดาวน์โหลดโปรแกรม
-git clone https://github.com/thep-psru/join-group.git hello
+
+	git clone https://github.com/thep-psru/join-group.git hello
 
 เปลี่ยนไดเรคเทอรี
-cd hello
+
+	cd hello
 
 dev_appserver.py --php_executable_path=/usr/bin/php-cgi ./
 
