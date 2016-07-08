@@ -1,2 +1,3 @@
 <?php
-echo "join-group";
+echo "Hello world!<br> ";
+echo "สวัสดี ชาวโลก";
