@@ -2,7 +2,7 @@
 
 ดาวน์โหลดโปรแกรม
 
-	git clone https://github.com/thep-psru/join-group.git hello
+	git clone https://github.com/thep-psru/first-php.git hello
 
 เปลี่ยนไดเรคเทอรี
 
